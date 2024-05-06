@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me 
 - 💻 &nbsp; Working as a Software Engineer at Mindex.
-- 🤔 &nbsp; Love developing software solutions for real-world problems while researching new technologies.
+- ⛏ &nbsp; Love developing software solutions for real-world problems while researching new technologies.
 - 🎓 &nbsp; Graduated with a Master's in Computer Science from Rochester Institute of Technology.
 - 🌱 &nbsp; Learning more about Web Technology, Cloud, Algorithms and Artificial Intelligence.
 - 📝 &nbsp; Check out my [Resume](https://shivamspm.github.io/Resume/)
