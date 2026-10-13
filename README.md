@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me 
 - 💻 Worked as a Software Engineer at Mindex for over 3 years, building full-stack applications on AWS and Agentic AI workflows.
 - 🛠️ Work with Python, C#/.NET, React, TypeScript/JavaScript, SQL, and AWS.
-- 🌱 Currently building an AI Incident Investigator and exploring agentic AI.
 - 🏆 Placed 3rd at the AI Native Talent Hunt hackathon during SF Tech Week.
+- 🌱 Currently building an AI Incident Investigator and exploring agentic AI.
 - 📝 Check out my [Resume](https://shivamspm.github.io/Resume/)
 ---
 
