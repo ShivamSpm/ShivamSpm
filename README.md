@@ -1,12 +1,11 @@
 <h1> Hey! I'm Shivam.</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me 
-- 💻 &nbsp; Worked as a Software Engineer at Mindex or over 3 years.
-- ⛏ &nbsp; Experience with Python, C#, React, TypeScript/JavaScript, AWS, SQL and build Agentic AI solutions.
-- 🎓 &nbsp; Graduated with a Master's in Computer Science from Rochester Institute of Technology.
-- 🌱 &nbsp; Learning more about AI and building projects
-- 📝 &nbsp; Check out my [Resume](https://shivamspm.github.io/Resume/)
-
+- 💻 Worked as a Software Engineer at Mindex for over 3 years, building full-stack applications on AWS and Agentic AI workflows.
+- 🛠️ Work with Python, C#/.NET, React, TypeScript/JavaScript, SQL, and AWS.
+- 🌱 Currently building an AI Incident Investigator and exploring agentic AI.
+- 🏆 Placed 3rd at the AI Native Talent Hunt hackathon during SF Tech Week.
+- 📝 Check out my [Resume](https://shivamspm.github.io/Resume/)
 ---
 
 ### 💻 Languages and Tools
