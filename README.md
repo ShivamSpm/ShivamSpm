@@ -1,10 +1,10 @@
 <h1> Hey! I'm Shivam.</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me 
-- 💻 &nbsp; Working as a Software Engineer at Mindex.
-- ⛏ &nbsp; Love developing software solutions for real-world problems while researching new technologies.
+- 💻 &nbsp; Worked as a Software Engineer at Mindex or over 3 years.
+- ⛏ &nbsp; Experience with Python, C#, React, TypeScript/JavaScript, AWS, SQL and build Agentic AI solutions.
 - 🎓 &nbsp; Graduated with a Master's in Computer Science from Rochester Institute of Technology.
-- 🌱 &nbsp; Learning more about Web Technology, Cloud, Algorithms and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about AI and building projects
 - 📝 &nbsp; Check out my [Resume](https://shivamspm.github.io/Resume/)
 
 ---
