@@ -40,6 +40,5 @@
 ### 📫 Lets Connect and Code: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shivamspm/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ShivamSpm) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/ShivamM49668640) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/shivam.mahajan.758)
 
-![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=ShivamSpm&show_icons=true&theme=dark)
 
 ⭐️ From [ShivamSpm](https://github.com/ShivamSpm)
